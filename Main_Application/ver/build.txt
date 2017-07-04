@@ -1,0 +1,44 @@
+﻿﻿0.2
+Neue Funktion
+- per Exe oder DWG ausführbar
+- Updatefunktion angepasst
+
+0.145
+Neue Funktionen
+- Trackingdaten im Projektmodul & Reportmodul als Titlepan implementiert
+- Liveupdate der Trackingdaten im Projektmodul
+- Designanpassungen
+
+0.142
+Neue Funktionen:
+- Kundendesign angelegt und Grundlage für umbennen geschaffen
+Fehlerbebung:
+- Fehler mit Kunden und Projektnamen Labels
+- Fehler beim Updaten behoben
+
+0.141
+Neue Funkionen:
+- Berichtefenster erweitert
+- Datenstruktur komplett geändert für weniger Speicherbedarf
+
+
+0.14
+Fehlerbehebung:
+- UTF-8 OS Streaming Fehler die verhinderten, dass die jar Datei heruntergeladen werden konnte
+
+
+0.138
+Neue Funktionen:
+- Berichtefenster Grundlagen erstellt
+	- Archiv und laufen Daten werden zu Projekten kovertiert um eine umfangreiche Interaktion mit allen Daten zum Projekt zu ermöglichen
+- Kundenfenster ist grundlegen angelegt, aber noch nicht Funktionsfähig
+ 
+
+0.137
+Neue Funktionen:
+- automatische Updatefunktion
+- Changelog Ansicht
+- Verzeichnisstruktur erstellt
+
+Fehlerbehebung:
+- Erstellen eines neuen Eintrages, durch Zeitenkorrektur
